@@ -1,18 +1,19 @@
-# Section 329 Fee Disgorgement -- Get Fees Back [2026]
+# Section 329 Fee Disgorgement - Get Fees Back [2026]
 > Section 329 lets courts order fee disgorgement from bankruptcy attorneys. Learn how to file, what evidence you need, and fee limits. 2026 guide.
 
 ## About
 section329.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- 329(b) Motion for Fee Disgorgement -- How to File: https://section329.org/329b-motion.html
-- Bankruptcy Attorney Fee Rights -- Section 330 Reasonable Compensation: https://section329.org/attorney-rights.html
-- Attorney Fee Disclosure Requirements -- Section 329(a): https://section329.org/disclosure-requirements.html
-- Excessive Bankruptcy Attorney Fees -- What Courts Consider: https://section329.org/excessive-fees.html
-- Bankruptcy Attorney Fee Disclosure -- Section 329(a): https://section329.org/fee-disclosure.html
+- 329(b) Motion for Fee Disgorgement - How to File: https://section329.org/329b-motion.html
+- Bankruptcy Attorney Fee Rights - Section 330 Reasonable Compensation: https://section329.org/attorney-rights.html
+- Attorney Fee Disclosure Requirements - Section 329(a): https://section329.org/disclosure-requirements.html
+- Excessive Bankruptcy Attorney Fees - What Courts Consider: https://section329.org/excessive-fees.html
+- Bankruptcy Attorney Fee Disclosure - Section 329(a): https://section329.org/fee-disclosure.html
 - How to File a Section 329 Fee Disgorgement Motion: https://section329.org/how-to-file.html
-- Section 329 Fee Disgorgement -- Get Fees Back: https://section329.org/
+- Section 329 Fee Disgorgement - Get Fees Back: https://section329.org/
 - UST Review of Bankruptcy Attorney Fees: https://section329.org/ust-fee-review.html
+- Privacy Policy: https://section329.org/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org

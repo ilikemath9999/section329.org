@@ -6,7 +6,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## 329(b) Motion for Fee Disgorgement -- How to File
+## 329(b) Motion for Fee Disgorgement - How to File
 Source: https://section329.org/329b-motion.html
 
 Skip to main content
@@ -21,29 +21,31 @@ Excessive Fees
 UST Review
 Attorney Rights
 
-329(b) Motion -- Fee Review and Disgorgement
+329(b) Motion - Fee Review and Disgorgement
 
 How to request a court review of attorney fees and seek disgorgement of any excessive compensation.
+
+Home›Section 329 Fee Disgorgement›329(b) Motion - Fee Review and Disgorgement
 
 What Is a 329(b) Motion?
 
 Section 329(b) gives the bankruptcy court the power to review any compensation paid to the debtor's attorney and to order return of excessive amounts. A 329(b) motion is the formal mechanism for requesting this review.
 
-11 U.S.C. Section 329(b): "If such compensation exceeds the reasonable value of any such services, the court may cancel any such agreement, or order the return of any such payment, to the extent excessive, to -- (1) the estate, if the property would have been property of the estate; or (2) the entity that made such payment."
+11 U.S.C. Section 329(b): "If such compensation exceeds the reasonable value of any such services, the court may cancel any such agreement, or order the return of any such payment, to the extent excessive, to - (1) the estate, if the property would have been property of the estate; or (2) the entity that made such payment."
 
 Who Has Standing
 
 Standing to request fee review under 329(b) is intentionally broad:
 
-The debtor -- The most common movant. The debtor who paid the fees can request review at any time during the case
+The debtor - The most common movant. The debtor who paid the fees can request review at any time during the case
 
-The case trustee -- In Chapter 7, the trustee can challenge fees that depleted the estate
+The case trustee - In Chapter 7, the trustee can challenge fees that depleted the estate
 
-The U.S. Trustee -- The UST actively monitors fee practices and can file motions sua sponte
+The U.S. Trustee - The UST actively monitors fee practices and can file motions sua sponte
 
-Any creditor -- Creditors have standing because excessive fees reduce the pool available for distribution
+Any creditor - Creditors have standing because excessive fees reduce the pool available for distribution
 
-The court itself -- The court can raise fee issues on its own motion, even without a request from any party
+The court itself - The court can raise fee issues on its own motion, even without a request from any party
 
 Pro se debtors: If you are representing yourself, you can file a 329(b) motion against your former attorney. See prosedebtors.org for guidance on pro se filings.
 
@@ -51,15 +53,15 @@ What the Motion Should Contain
 
 A 329(b) motion should include:
 
-Identification of the fees at issue -- The amount paid, when paid, and the source
+Identification of the fees at issue - The amount paid, when paid, and the source
 
-The fee disclosure statement -- Reference the attorney's Rule 2016(b) disclosure (or note its absence)
+The fee disclosure statement - Reference the attorney's Rule 2016(b) disclosure (or note its absence)
 
-Basis for challenge -- Why the fees are excessive. Compare to local norms, identify work not performed, point to disclosure failures
+Basis for challenge - Why the fees are excessive. Compare to local norms, identify work not performed, point to disclosure failures
 
-Evidence -- Receipts, retainer agreements, correspondence about fees, billing records if available
+Evidence - Receipts, retainer agreements, correspondence about fees, billing records if available
 
-Relief requested -- Specific dollar amount to be disgorged, or complete disgorgement if disclosure was deficient
+Relief requested - Specific dollar amount to be disgorged, or complete disgorgement if disclosure was deficient
 
 The motion is filed with the bankruptcy court and served on the attorney. The court will typically schedule a hearing.
 
@@ -75,7 +77,7 @@ The work was necessary and beneficial
 
 Full disclosure was made
 
-If the court finds fees excessive, it will order disgorgement -- either to the estate (if the fees would have been estate property) or to the entity that paid (typically the debtor).
+If the court finds fees excessive, it will order disgorgement - either to the estate (if the fees would have been estate property) or to the entity that paid (typically the debtor).
 
 Timing: 329(b) motions can be filed at any time during the case. Some courts have allowed post-discharge fee challenges, though this varies by circuit. File promptly to preserve your rights.
 
@@ -87,9 +89,9 @@ Subscribe
 
 Related Resources
 
-section329.org -- Fee disclosure requirements
+section329.org - Fee disclosure requirements
 
-prosedebtors.org -- Pro se filing guidance
+prosedebtors.org - Pro se filing guidance
 
 Related Guides
 
@@ -104,10 +106,10 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy trustees and the 341 meeting:
 
 11 U.S.C. Section 341
-Cornell LII -- meeting of creditors
+Cornell LII - meeting of creditors
 
 11 U.S.C. Section 329
-Cornell LII -- attorney fee review
+Cornell LII - attorney fee review
 
 U.S. Trustee Program
 DOJ bankruptcy oversight
@@ -201,7 +203,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Bankruptcy Attorney Fee Rights -- Section 330 Reasonable Compensation
+## Bankruptcy Attorney Fee Rights - Section 330 Reasonable Compensation
 Source: https://section329.org/attorney-rights.html
 
 Skip to main content
@@ -216,13 +218,15 @@ Excessive Fees
 UST Review
 Attorney Rights
 
-Attorney Fee Rights -- Reasonable Compensation
+Attorney Fee Rights - Reasonable Compensation
 
 Section 330 establishes the right to reasonable compensation. The lodestar method and how courts balance the interests.
 
-Section 330 -- The Framework
+Home›Section 329 Fee Disgorgement›Attorney Fee Rights - Reasonable Compensation
 
-While Section 329 governs disclosure and disgorgement of the debtor's attorney's fees, Section 330 establishes the broader framework for compensating all professionals in bankruptcy cases -- attorneys, accountants, appraisers, and other professionals employed by the estate.
+Section 330 - The Framework
+
+While Section 329 governs disclosure and disgorgement of the debtor's attorney's fees, Section 330 establishes the broader framework for compensating all professionals in bankruptcy cases - attorneys, accountants, appraisers, and other professionals employed by the estate.
 
 11 U.S.C. Section 330(a)(1): The court may award "reasonable compensation for actual, necessary services rendered by the... professional person... based on the nature, the extent, and the value of such services, the time spent on such services, and the cost of comparable services."
 
@@ -264,15 +268,15 @@ The Balancing Test
 
 Fee determinations involve balancing competing interests:
 
-Fair compensation for attorneys -- Bankruptcy practitioners deserve reasonable pay for skilled work
+Fair compensation for attorneys - Bankruptcy practitioners deserve reasonable pay for skilled work
 
-Protection of vulnerable debtors -- People in financial distress should not be overcharged
+Protection of vulnerable debtors - People in financial distress should not be overcharged
 
-Estate preservation -- Excessive fees reduce funds available to creditors
+Estate preservation - Excessive fees reduce funds available to creditors
 
-System integrity -- Courts must maintain public confidence in the bankruptcy system
+System integrity - Courts must maintain public confidence in the bankruptcy system
 
-This balancing is why courts take an active role in fee review. Unlike most civil litigation, where parties freely negotiate fees, bankruptcy courts have independent authority to evaluate and adjust compensation -- even when the debtor consented to the arrangement.
+This balancing is why courts take an active role in fee review. Unlike most civil litigation, where parties freely negotiate fees, bankruptcy courts have independent authority to evaluate and adjust compensation - even when the debtor consented to the arrangement.
 
 See also: What makes fees excessive | How to file a 329(b) motion
 
@@ -284,9 +288,9 @@ Subscribe
 
 Related Resources
 
-section329.org/excessive-fees.html -- Fee guidelines by district
+section329.org/excessive-fees.html - Fee guidelines by district
 
-bankruptcymalpractice.org -- Attorney malpractice guide
+bankruptcymalpractice.org - Attorney malpractice guide
 
 Related Guides
 
@@ -301,10 +305,10 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy trustees and the 341 meeting:
 
 11 U.S.C. Section 341
-Cornell LII -- meeting of creditors
+Cornell LII - meeting of creditors
 
 11 U.S.C. Section 329
-Cornell LII -- attorney fee review
+Cornell LII - attorney fee review
 
 U.S. Trustee Program
 DOJ bankruptcy oversight
@@ -398,16 +402,18 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Attorney Fee Disclosure Requirements -- Section 329(a)
+## Attorney Fee Disclosure Requirements - Section 329(a)
 Source: https://section329.org/disclosure-requirements.html
 
 section329.org
 
 1328f.com1328f.org
 
-Section 329 -- Attorney Fee Disgorgement
+Section 329 - Attorney Fee Disgorgement
 
 Free guide to fee disgorgement under 11 U.S.C. Section 329. Learn when courts can order attorneys to return excessive fees in bankruptcy cases.
+
+Home›Section 329 Fee Disgorgement›Section 329 - Attorney Fee Disgorgement
 
 What Must Be Disclosed
 
@@ -415,7 +421,7 @@ All compensation paid or agreed to be paid for services rendered in connection w
 
 When to Disclose
 
-The attorney must file the disclosure statement within 14 days of the petition. Failure to disclose is itself a ground for disgorgement -- courts presume that undisclosed fees are excessive.
+The attorney must file the disclosure statement within 14 days of the petition. Failure to disclose is itself a ground for disgorgement - courts presume that undisclosed fees are excessive.
 
 Bankruptcy Rule 2016
 
@@ -454,10 +460,10 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy trustees and the 341 meeting:
 
 11 U.S.C. Section 341
-Cornell LII -- meeting of creditors
+Cornell LII - meeting of creditors
 
 11 U.S.C. Section 329
-Cornell LII -- attorney fee review
+Cornell LII - attorney fee review
 
 U.S. Trustee Program
 DOJ bankruptcy oversight
@@ -542,7 +548,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Excessive Bankruptcy Attorney Fees -- What Courts Consider
+## Excessive Bankruptcy Attorney Fees - What Courts Consider
 Source: https://section329.org/excessive-fees.html
 
 Skip to main content
@@ -561,9 +567,11 @@ Excessive Bankruptcy Attorney Fees
 
 What courts consider when evaluating whether bankruptcy attorney fees are excessive. Factors, guidelines, and district averages.
 
+Home›Section 329 Fee Disgorgement›Excessive Bankruptcy Attorney Fees
+
 The Reasonableness Standard
 
-Section 329(b) authorizes the court to examine the compensation paid or agreed to be paid and to order a return of any payment that "exceeds the reasonable value of such services." The standard is objective -- what would a competent attorney in the same market charge for the same work?
+Section 329(b) authorizes the court to examine the compensation paid or agreed to be paid and to order a return of any payment that "exceeds the reasonable value of such services." The standard is objective - what would a competent attorney in the same market charge for the same work?
 
 Courts apply the factors from Section 330(a)(3), which include:
 
@@ -589,11 +597,11 @@ Typical ranges for no-asset consumer Chapter 7 cases (2024-2026):
 
 RegionTypical Range
 
-Low-cost districts (rural South, Midwest)$800 -- $1,500
+Low-cost districts (rural South, Midwest)$800 - $1,500
 
-Mid-range districts (most metro areas)$1,500 -- $2,500
+Mid-range districts (most metro areas)$1,500 - $2,500
 
-High-cost districts (NYC, SF, LA, DC)$2,000 -- $3,500
+High-cost districts (NYC, SF, LA, DC)$2,000 - $3,500
 
 For Chapter 13 cases, fee ranges are typically higher because the attorney handles the case over 3-5 years. Common Chapter 13 fee ranges are $3,000 to $6,000, often paid through the plan.
 
@@ -605,19 +613,19 @@ Courts and the U.S. Trustee look for patterns that suggest overcharging:
 
 Flat fees well above local norms without justification for the complexity
 
-Unbundled add-on fees -- charging separately for every motion, phone call, or email on top of a base retainer
+Unbundled add-on fees - charging separately for every motion, phone call, or email on top of a base retainer
 
 Charging for clerical work at attorney rates
 
-Block billing -- lumping multiple tasks into a single time entry to obscure how time was actually spent
+Block billing - lumping multiple tasks into a single time entry to obscure how time was actually spent
 
-Duplicate billing -- charging for the same task multiple times
+Duplicate billing - charging for the same task multiple times
 
-Excessive fees relative to results -- charging $5,000 for a routine Chapter 7 with no contested matters
+Excessive fees relative to results - charging $5,000 for a routine Chapter 7 with no contested matters
 
 The Lodestar Method
 
-Some courts use the lodestar method to evaluate fees: multiply reasonable hours by a reasonable hourly rate for the market. The result is the "lodestar" -- the presumptively reasonable fee. The court can then adjust up or down based on the Section 330 factors.
+Some courts use the lodestar method to evaluate fees: multiply reasonable hours by a reasonable hourly rate for the market. The result is the "lodestar" - the presumptively reasonable fee. The court can then adjust up or down based on the Section 330 factors.
 
 For flat-fee arrangements (common in consumer bankruptcy), courts compare the flat fee to what the lodestar would produce. If a flat fee of $3,000 corresponds to 5 hours of work that local rates would value at $1,500, the fee may be excessive.
 
@@ -631,9 +639,9 @@ Subscribe
 
 Related Resources
 
-bankruptcymalpractice.org/fee-disputes.html -- Fee dispute guide
+bankruptcymalpractice.org/fee-disputes.html - Fee dispute guide
 
-prosedebtors.org -- Filing without an attorney
+prosedebtors.org - Filing without an attorney
 
 Related Guides
 
@@ -648,10 +656,10 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy trustees and the 341 meeting:
 
 11 U.S.C. Section 341
-Cornell LII -- meeting of creditors
+Cornell LII - meeting of creditors
 
 11 U.S.C. Section 329
-Cornell LII -- attorney fee review
+Cornell LII - attorney fee review
 
 U.S. Trustee Program
 DOJ bankruptcy oversight
@@ -745,7 +753,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Bankruptcy Attorney Fee Disclosure -- Section 329(a)
+## Bankruptcy Attorney Fee Disclosure - Section 329(a)
 Source: https://section329.org/fee-disclosure.html
 
 Skip to main content
@@ -760,9 +768,11 @@ Excessive Fees
 UST Review
 Attorney Rights
 
-Attorney Fee Disclosure -- Section 329(a)
+Attorney Fee Disclosure - Section 329(a)
 
 Every attorney representing a debtor must disclose all compensation. Failure can result in complete disgorgement.
+
+Home›Section 329 Fee Disgorgement›Attorney Fee Disclosure - Section 329(a)
 
 The Disclosure Obligation
 
@@ -776,37 +786,37 @@ What Must Be Disclosed
 
 The disclosure must include:
 
-All compensation paid within one year before filing -- retainers, flat fees, hourly payments, any form of consideration
+All compensation paid within one year before filing - retainers, flat fees, hourly payments, any form of consideration
 
-All compensation agreed to -- including future fee arrangements, contingency agreements, or unbilled work
+All compensation agreed to - including future fee arrangements, contingency agreements, or unbilled work
 
-Source of payments -- who actually paid. If a family member paid the retainer, that must be disclosed
+Source of payments - who actually paid. If a family member paid the retainer, that must be disclosed
 
-Fee-sharing arrangements -- whether any portion of compensation was shared with another entity (including referring attorneys or marketing companies)
+Fee-sharing arrangements - whether any portion of compensation was shared with another entity (including referring attorneys or marketing companies)
 
-Terms of the agreement -- flat fee, hourly, retainer with hourly billing against it, or any other structure
+Terms of the agreement - flat fee, hourly, retainer with hourly billing against it, or any other structure
 
-Common trap: Some attorneys disclose only the retainer but fail to disclose additional fees charged for motions, adversary proceedings, or plan modifications. All compensation must be disclosed -- not just the initial payment.
+Common trap: Some attorneys disclose only the retainer but fail to disclose additional fees charged for motions, adversary proceedings, or plan modifications. All compensation must be disclosed - not just the initial payment.
 
 Timing
 
 The disclosure statement must be filed within 14 days after the order for relief. In a voluntary bankruptcy case, the order for relief is the petition date itself. In an involuntary case, it is the date the court enters the order for relief.
 
-If the fee arrangement changes during the case -- for example, if the attorney charges additional fees for contested matters -- a supplemental disclosure must be filed.
+If the fee arrangement changes during the case - for example, if the attorney charges additional fees for contested matters - a supplemental disclosure must be filed.
 
 Consequences of Failure to Disclose
 
 Courts treat disclosure failures harshly. The consequences include:
 
-Complete disgorgement -- Courts have ordered attorneys to return all fees, even when the fees were reasonable, because the failure to disclose is itself a violation
+Complete disgorgement - Courts have ordered attorneys to return all fees, even when the fees were reasonable, because the failure to disclose is itself a violation
 
-Denial of compensation -- Applications for additional fees will be denied
+Denial of compensation - Applications for additional fees will be denied
 
-Sanctions -- Some courts impose sanctions beyond fee forfeiture
+Sanctions - Some courts impose sanctions beyond fee forfeiture
 
-Disciplinary referral -- Particularly egregious failures may be referred to state bar authorities
+Disciplinary referral - Particularly egregious failures may be referred to state bar authorities
 
-Key principle: The duty to disclose is independent of the reasonableness of fees. An attorney who charges $2,000 for a routine Chapter 7 -- a perfectly reasonable fee -- can still face complete disgorgement if the fee was not properly disclosed.
+Key principle: The duty to disclose is independent of the reasonableness of fees. An attorney who charges $2,000 for a routine Chapter 7 - a perfectly reasonable fee - can still face complete disgorgement if the fee was not properly disclosed.
 
 See also: How to file a 329(b) motion for fee review
 
@@ -814,7 +824,7 @@ The Purpose Behind the Requirement
 
 Congress imposed the disclosure requirement to protect vulnerable debtors. People filing bankruptcy are, by definition, in financial distress. They are often unsophisticated consumers who may not understand fee structures or know whether the amount charged is reasonable for the work performed.
 
-The disclosure requirement ensures that the court, the U.S. Trustee, the case trustee, and creditors can all review the fee arrangement and raise objections if necessary. It is a transparency measure -- and the courts enforce it strictly because without it, the review process cannot function.
+The disclosure requirement ensures that the court, the U.S. Trustee, the case trustee, and creditors can all review the fee arrangement and raise objections if necessary. It is a transparency measure - and the courts enforce it strictly because without it, the review process cannot function.
 
 Related: Bankruptcy attorney malpractice guide | Filing without an attorney
 
@@ -826,9 +836,9 @@ Subscribe
 
 Related Resources
 
-bankruptcymalpractice.org -- Attorney malpractice guide
+bankruptcymalpractice.org - Attorney malpractice guide
 
-prosedebtors.org -- Filing without an attorney
+prosedebtors.org - Filing without an attorney
 
 Related Guides
 
@@ -843,10 +853,10 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy trustees and the 341 meeting:
 
 11 U.S.C. Section 341
-Cornell LII -- meeting of creditors
+Cornell LII - meeting of creditors
 
 11 U.S.C. Section 329
-Cornell LII -- attorney fee review
+Cornell LII - attorney fee review
 
 U.S. Trustee Program
 DOJ bankruptcy oversight
@@ -947,9 +957,11 @@ section329.org
 
 1328f.com1328f.org
 
-Section 329 -- Attorney Fee Disgorgement
+Section 329 - Attorney Fee Disgorgement
 
 Free guide to fee disgorgement under 11 U.S.C. Section 329. Learn when courts can order attorneys to return excessive fees in bankruptcy cases.
+
+Home›Section 329 Fee Disgorgement›Section 329 - Attorney Fee Disgorgement
 
 Preparing the Motion
 
@@ -996,10 +1008,10 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy trustees and the 341 meeting:
 
 11 U.S.C. Section 341
-Cornell LII -- meeting of creditors
+Cornell LII - meeting of creditors
 
 11 U.S.C. Section 329
-Cornell LII -- attorney fee review
+Cornell LII - attorney fee review
 
 U.S. Trustee Program
 DOJ bankruptcy oversight
@@ -1084,7 +1096,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Section 329 Fee Disgorgement -- Get Fees Back [2026]
+## Section 329 Fee Disgorgement - Get Fees Back [2026]
 Source: https://section329.org/
 
 🌐 Esta pagina esta disponible en Espanol
@@ -1101,7 +1113,7 @@ Excessive Fees
 UST Review
 Attorney Rights
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
 Section 329 Fee Disgorgement
 
@@ -1147,7 +1159,7 @@ Attorney experience and reputation
 
 How Disgorgement Works
 
-Under 329(b), the court can cancel fee agreements or order return of excessive payments -- to the estate or to the entity that paid.
+Under 329(b), the court can cancel fee agreements or order return of excessive payments - to the estate or to the entity that paid.
 
 The U.S. Trustee actively monitors fee applications in many districts.
 
@@ -1188,11 +1200,11 @@ Subscribe
 
 Related Resources
 
-bankruptcymalpractice.org -- Attorney malpractice guide
+bankruptcymalpractice.org - Attorney malpractice guide
 
-pro se bankruptcy filing guide -- Filing without an attorney
+pro se bankruptcy filing guide - Filing without an attorney
 
-step-by-step bankruptcy filing guide -- Step-by-step filing guide
+step-by-step bankruptcy filing guide - Step-by-step filing guide
 
 Related Guides
 
@@ -1221,10 +1233,10 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy trustees and the 341 meeting:
 
 11 U.S.C. Section 341
-Cornell LII -- meeting of creditors
+Cornell LII - meeting of creditors
 
 11 U.S.C. Section 329
-Cornell LII -- attorney fee review
+Cornell LII - attorney fee review
 
 U.S. Trustee Program
 DOJ bankruptcy oversight
@@ -1269,7 +1281,7 @@ howmuchdoesbankruptcycost.com →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -1453,37 +1465,39 @@ U.S. Trustee Fee Review
 
 How the U.S. Trustee monitors and challenges excessive attorney fees in bankruptcy cases.
 
+Home›Section 329 Fee Disgorgement›U.S. Trustee Fee Review
+
 The UST's Role in Fee Oversight
 
 The United States Trustee Program (USTP) is the component of the Department of Justice responsible for overseeing the administration of bankruptcy cases. One of its core functions is monitoring attorney compensation to protect debtors and the integrity of the bankruptcy system.
 
-The UST reviews Rule 2016(b) disclosures filed in every case. In many districts, the UST has established fee guidelines -- presumptive fee ranges for common case types. Attorneys who charge above these ranges face heightened scrutiny.
+The UST reviews Rule 2016(b) disclosures filed in every case. In many districts, the UST has established fee guidelines - presumptive fee ranges for common case types. Attorneys who charge above these ranges face heightened scrutiny.
 
 How to Request a Review
 
-Identify your district's UST office -- Each federal judicial district has a U.S. Trustee's office. Contact information is available at justice.gov/ust
+Identify your district's UST office - Each federal judicial district has a U.S. Trustee's office. Contact information is available at justice.gov/ust
 
-File a written complaint -- Describe the fees charged, the services received (or not received), and why you believe the fees are excessive
+File a written complaint - Describe the fees charged, the services received (or not received), and why you believe the fees are excessive
 
-Provide documentation -- Include the retainer agreement, payment receipts, and any correspondence about fees
+Provide documentation - Include the retainer agreement, payment receipts, and any correspondence about fees
 
-The UST will investigate -- If the complaint has merit, the UST may request billing records from the attorney and compare fees to district norms
+The UST will investigate - If the complaint has merit, the UST may request billing records from the attorney and compare fees to district norms
 
-No cost to you: Filing a complaint with the UST is free. The UST has independent authority to investigate and file motions -- you do not need to hire an attorney to request a review.
+No cost to you: Filing a complaint with the UST is free. The UST has independent authority to investigate and file motions - you do not need to hire an attorney to request a review.
 
 What Triggers UST Scrutiny
 
-Fees above district guidelines -- Many UST offices publish presumptive fee ranges
+Fees above district guidelines - Many UST offices publish presumptive fee ranges
 
-Missing or incomplete disclosures -- Failure to file Rule 2016(b) statements
+Missing or incomplete disclosures - Failure to file Rule 2016(b) statements
 
-Pattern of complaints -- Multiple debtors complaining about the same attorney or firm
+Pattern of complaints - Multiple debtors complaining about the same attorney or firm
 
-Fee-sharing without disclosure -- Payments to lead generators, marketing companies, or referring attorneys
+Fee-sharing without disclosure - Payments to lead generators, marketing companies, or referring attorneys
 
-Large pre-petition payments -- Unusually large payments made shortly before filing
+Large pre-petition payments - Unusually large payments made shortly before filing
 
-Unbundled charging patterns -- Charging add-on fees for routine tasks that should be included in the base retainer
+Unbundled charging patterns - Charging add-on fees for routine tasks that should be included in the base retainer
 
 What the UST Can Do
 
@@ -1507,9 +1521,9 @@ Subscribe
 
 Related Resources
 
-section329.org/329b-motion.html -- How to file a fee motion
+section329.org/329b-motion.html - How to file a fee motion
 
-bankruptcymalpractice.org -- Attorney malpractice guide
+bankruptcymalpractice.org - Attorney malpractice guide
 
 Related Guides
 
@@ -1524,10 +1538,10 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy trustees and the 341 meeting:
 
 11 U.S.C. Section 341
-Cornell LII -- meeting of creditors
+Cornell LII - meeting of creditors
 
 11 U.S.C. Section 329
-Cornell LII -- attorney fee review
+Cornell LII - attorney fee review
 
 U.S. Trustee Program
 DOJ bankruptcy oversight
@@ -1618,3 +1632,75 @@ This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptc
 Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Privacy Policy - section329.org
+Source: https://section329.org/privacy.html
+
+section329.org
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
